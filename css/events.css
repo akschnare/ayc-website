@@ -1,0 +1,29 @@
+.cal-tools{display:flex;flex-wrap:wrap;gap:.75rem;justify-content:space-between;align-items:center;margin-bottom:.75rem}
+.chips,.views{display:flex;flex-wrap:wrap;gap:.5rem}
+.chips button,.views button,.cal-nav button{min-height:44px;padding:.4rem .9rem;border-radius:999px;border:2px solid #38446F;background:#fff;color:#38446F;font:inherit;font-weight:700;cursor:pointer}
+.chips button[aria-pressed=true],.views button[aria-pressed=true]{background:#38446F;color:#fff}
+.chips .sw{display:inline-block;width:.8rem;height:.8rem;border-radius:50%;margin-right:.4rem;vertical-align:middle;border:1px solid #fff}
+.cal-search{max-width:28rem;margin-bottom:1rem}
+.c-racing{--c:#1F5FA8}.c-events{--c:#B3261E}.c-business{--c:#5B6170}.c-other{--c:#2E7D32}
+.cal-nav{display:flex;align-items:center;justify-content:space-between;gap:.5rem;margin:.5rem 0}
+.cal-nav h2{margin:0;font-size:1.4rem}
+.cal-grid{display:grid;grid-template-columns:repeat(7,1fr);border:1px solid #d6d9e3;border-radius:10px;overflow:hidden}
+.cal-grid .dow{background:#38446F;color:#fff;font-weight:700;text-align:center;padding:.4rem 0;font-size:.85rem}
+.cal-day{min-height:6.5rem;border-top:1px solid #d6d9e3;border-left:1px solid #d6d9e3;padding:.3rem;background:#fff;text-align:left;font:inherit;color:inherit;display:flex;flex-direction:column;gap:.2rem}
+.cal-day:nth-child(7n+1){border-left:0}
+.cal-day.out{background:#f4f4f6;color:#8a8f9c}
+.cal-day.today .n{background:#FBCE55;color:#1b1f33;border-radius:50%;padding:0 .35rem}
+.cal-day .n{font-weight:700;font-size:.9rem;align-self:flex-start}
+.ev-pill{display:block;width:100%;text-align:left;border:0;border-left:4px solid var(--c);background:color-mix(in srgb,var(--c) 12%,#fff);color:#1b1f33;font:inherit;font-size:.78rem;line-height:1.2;padding:.2rem .3rem;border-radius:4px;cursor:pointer;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.ev-pill:focus-visible,.cal-day:focus-visible,button:focus-visible{outline:3px solid #FBCE55;outline-offset:2px}
+.cal-detail:empty{display:none}
+.cal-detail{margin:1rem 0;padding:1rem 1.2rem;border-radius:10px;border:2px solid #38446F;background:#fff}
+.cal-detail .ev{border-left:6px solid var(--c);padding-left:.8rem;margin:.6rem 0}
+.agenda h3.m{margin:1.4rem 0 .5rem;color:#38446F}
+.agenda .row{display:grid;grid-template-columns:3.6rem 1fr;gap:.8rem;align-items:start;padding:.7rem;border-left:6px solid var(--c);background:#fff;border-radius:8px;margin-bottom:.5rem;box-shadow:0 1px 3px rgba(0,0,0,.08)}
+.agenda .d{text-align:center;font-weight:700;color:#38446F;line-height:1.1}.agenda .d b{display:block;font-size:1.5rem}
+.agenda .row h4{margin:0 0 .2rem;font-size:1.05rem}
+.ev-actions{display:flex;flex-wrap:wrap;gap:.5rem;margin-top:.4rem}
+.ev-actions a,.ev-actions button{min-height:44px;display:inline-flex;align-items:center;padding:.3rem .8rem;border-radius:8px;border:2px solid #38446F;background:#fff;color:#38446F;font:inherit;font-weight:700;text-decoration:none;cursor:pointer}
+@media (max-width:700px){.cal-day{min-height:3.4rem}.ev-pill{font-size:0;padding:0;height:.5rem;border-left:0;background:var(--c)}.cal-grid .dow{font-size:.75rem}}
+.sr-only{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}

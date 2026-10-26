@@ -1,5 +1,16 @@
 <!doctype html><html lang="en-CA"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Events | Armdale Yacht Club</title><meta name="description" content="AYC events, socials and racing calendar.">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400;700&family=Atkinson+Hyperlegible+Next:wght@400;700&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="css/site.css"><link rel="icon" href="img/ayc-logo.png"></head><body><div data-header></div>
-<main id="main"><div class="page-head"><div class="wrap"><h1>Events & Racing</h1><p>Search the club calendar. Data from the existing Events Calendar; race series link to Clubspot for registration and results.</p></div></div><section><div class="wrap"><div class="row" style="display:grid;gap:1rem;grid-template-columns:2fr 1fr"><div><label for="q">Search events</label><input id="q" type="search" placeholder="e.g. Halloween, PHRF"></div><div><label for="cat">Category</label><select id="cat"><option value="">All</option></select></div></div><p id="count" aria-live="polite"></p><div class="grid" data-events></div></div></section></main><div data-footer></div><script src="js/data.js"></script><script src="js/api.js"></script><script src="js/site.js"></script></body></html>
+<link rel="stylesheet" href="css/site.css"><link rel="stylesheet" href="css/events.css"><link rel="icon" href="img/ayc-logo.png"></head><body><div data-header></div>
+<main id="main"><div class="page-head"><div class="wrap"><h1>Events &amp; Racing</h1><p>Club calendar: socials, racing and club business. Race series link to Clubspot for registration and results.</p></div></div>
+<section><div class="wrap">
+<div class="cal-tools">
+ <div class="chips" role="group" aria-label="Filter by category" data-chips></div>
+ <div class="views" role="group" aria-label="View"><button type="button" data-view="grid" aria-pressed="false">Month</button><button type="button" data-view="list" aria-pressed="false">List</button></div>
+</div>
+<div class="cal-search"><label for="q">Search events</label><input id="q" type="search" placeholder="e.g. Halloween, PHRF"></div>
+<p id="count" class="sr-status" aria-live="polite"></p>
+<div data-cal></div>
+<div id="detail" class="cal-detail" tabindex="-1" aria-live="polite"></div>
+<h2>Race series</h2><p>Ongoing series without a fixed date in the calendar. Register and see results on Clubspot.</p><div class="grid" data-series></div>
+</div></section></main><div data-footer></div><script src="js/data.js"></script><script src="js/api.js"></script><script src="js/site.js"></script><script src="js/events.js"></script></body></html>
