@@ -1,0 +1,725 @@
+{
+ "apiVersion": "0.1-mock",
+ "data": [
+  {
+   "id": "evt_3948",
+   "clubId": "ayc",
+   "title": "AYC Die Hard Race",
+   "start": "2026-10-24T12:00:00",
+   "end": "2026-10-24T17:00:00",
+   "category": "Racing",
+   "audience": "public",
+   "sourceUrl": "https://armdaleyachtclub.ns.ca/event/ayc-die-hard-race/",
+   "registration": {
+    "required": false,
+    "provider": null,
+    "url": null
+   }
+  },
+  {
+   "id": "evt_4370",
+   "clubId": "ayc",
+   "title": "Pumpkin Carving \u2013 Member Family Event",
+   "start": "2026-10-24T14:00:00",
+   "end": "2026-10-24T17:00:00",
+   "category": "Events",
+   "audience": "public",
+   "sourceUrl": "https://armdaleyachtclub.ns.ca/event/pumpkin-carving-member-family-event-details-to-come/",
+   "registration": {
+    "required": false,
+    "provider": null,
+    "url": null
+   }
+  },
+  {
+   "id": "evt_4372",
+   "clubId": "ayc",
+   "title": "Halloween Party \u2013 Live Music",
+   "start": "2026-10-31T19:00:00",
+   "end": "2026-10-31T22:00:00",
+   "category": "Events",
+   "audience": "public",
+   "sourceUrl": "https://armdaleyachtclub.ns.ca/event/halloween-party-live-music-details-to-come/",
+   "registration": {
+    "required": false,
+    "provider": null,
+    "url": null
+   }
+  },
+  {
+   "id": "evt_10003853",
+   "clubId": "ayc",
+   "title": "COM Meeting",
+   "start": "2026-11-10T18:00:00",
+   "end": "2026-11-10T20:00:00",
+   "category": "Club Business",
+   "audience": "public",
+   "sourceUrl": "https://armdaleyachtclub.ns.ca/event/com-meeting-10/2026-11-10/",
+   "registration": {
+    "required": false,
+    "provider": null,
+    "url": null
+   }
+  },
+  {
+   "id": "evt_4378",
+   "clubId": "ayc",
+   "title": "Club Children\u2019s Christmas Party \u2013 Details to Come",
+   "start": "2026-12-05T12:00:00",
+   "end": "2026-12-05T17:00:00",
+   "category": "Events",
+   "audience": "public",
+   "sourceUrl": "https://armdaleyachtclub.ns.ca/event/club-childrens-christmas-party-details-to-come/",
+   "registration": {
+    "required": false,
+    "provider": null,
+    "url": null
+   }
+  },
+  {
+   "id": "evt_10003854",
+   "clubId": "ayc",
+   "title": "COM Meeting",
+   "start": "2026-12-08T18:00:00",
+   "end": "2026-12-08T20:00:00",
+   "category": "Club Business",
+   "audience": "public",
+   "sourceUrl": "https://armdaleyachtclub.ns.ca/event/com-meeting-10/2026-12-08/",
+   "registration": {
+    "required": false,
+    "provider": null,
+    "url": null
+   }
+  },
+  {
+   "id": "evt_4374",
+   "clubId": "ayc",
+   "title": "Tibb\u2019s Eve \u2013 Members Only \u2013 Details to Come",
+   "start": "2026-12-23T17:00:00",
+   "end": "2026-12-23T23:30:00",
+   "category": "Events",
+   "audience": "members",
+   "sourceUrl": "https://armdaleyachtclub.ns.ca/event/tibbs-eve-members-only-details-to-come/",
+   "registration": {
+    "required": false,
+    "provider": null,
+    "url": null
+   }
+  },
+  {
+   "id": "evt_4376",
+   "clubId": "ayc",
+   "title": "New Year\u2019s Eve Party \u2013 Members & Guests \u2013 Details to Come",
+   "start": "2026-12-31T17:00:00",
+   "end": "2027-01-01T01:00:00",
+   "category": "Events",
+   "audience": "public",
+   "sourceUrl": "https://armdaleyachtclub.ns.ca/event/new-years-eve-party-members-guests-details-to-come/",
+   "registration": {
+    "required": false,
+    "provider": null,
+    "url": null
+   }
+  },
+  {
+   "id": "evt_10003855",
+   "clubId": "ayc",
+   "title": "COM Meeting",
+   "start": "2027-01-12T18:00:00",
+   "end": "2027-01-12T20:00:00",
+   "category": "Club Business",
+   "audience": "public",
+   "sourceUrl": "https://armdaleyachtclub.ns.ca/event/com-meeting-10/2027-01-12/",
+   "registration": {
+    "required": false,
+    "provider": null,
+    "url": null
+   }
+  },
+  {
+   "id": "evt_10003856",
+   "clubId": "ayc",
+   "title": "COM Meeting",
+   "start": "2027-02-09T18:00:00",
+   "end": "2027-02-09T20:00:00",
+   "category": "Club Business",
+   "audience": "public",
+   "sourceUrl": "https://armdaleyachtclub.ns.ca/event/com-meeting-10/2027-02-09/",
+   "registration": {
+    "required": false,
+    "provider": null,
+    "url": null
+   }
+  },
+  {
+   "id": "evt_10003857",
+   "clubId": "ayc",
+   "title": "COM Meeting",
+   "start": "2027-03-09T18:00:00",
+   "end": "2027-03-09T20:00:00",
+   "category": "Club Business",
+   "audience": "public",
+   "sourceUrl": "https://armdaleyachtclub.ns.ca/event/com-meeting-10/2027-03-09/",
+   "registration": {
+    "required": false,
+    "provider": null,
+    "url": null
+   }
+  },
+  {
+   "id": "evt_10003858",
+   "clubId": "ayc",
+   "title": "COM Meeting",
+   "start": "2027-04-13T18:00:00",
+   "end": "2027-04-13T20:00:00",
+   "category": "Club Business",
+   "audience": "public",
+   "sourceUrl": "https://armdaleyachtclub.ns.ca/event/com-meeting-10/2027-04-13/",
+   "registration": {
+    "required": false,
+    "provider": null,
+    "url": null
+   }
+  },
+  {
+   "id": "evt_10003859",
+   "clubId": "ayc",
+   "title": "COM Meeting",
+   "start": "2027-05-11T18:00:00",
+   "end": "2027-05-11T20:00:00",
+   "category": "Club Business",
+   "audience": "public",
+   "sourceUrl": "https://armdaleyachtclub.ns.ca/event/com-meeting-10/2027-05-11/",
+   "registration": {
+    "required": false,
+    "provider": null,
+    "url": null
+   }
+  },
+  {
+   "id": "evt_10003860",
+   "clubId": "ayc",
+   "title": "COM Meeting",
+   "start": "2027-06-08T18:00:00",
+   "end": "2027-06-08T20:00:00",
+   "category": "Club Business",
+   "audience": "public",
+   "sourceUrl": "https://armdaleyachtclub.ns.ca/event/com-meeting-10/2027-06-08/",
+   "registration": {
+    "required": false,
+    "provider": null,
+    "url": null
+   }
+  },
+  {
+   "id": "evt_10003861",
+   "clubId": "ayc",
+   "title": "COM Meeting",
+   "start": "2027-07-13T18:00:00",
+   "end": "2027-07-13T20:00:00",
+   "category": "Club Business",
+   "audience": "public",
+   "sourceUrl": "https://armdaleyachtclub.ns.ca/event/com-meeting-10/2027-07-13/",
+   "registration": {
+    "required": false,
+    "provider": null,
+    "url": null
+   }
+  },
+  {
+   "id": "evt_10003862",
+   "clubId": "ayc",
+   "title": "COM Meeting",
+   "start": "2027-08-10T18:00:00",
+   "end": "2027-08-10T20:00:00",
+   "category": "Club Business",
+   "audience": "public",
+   "sourceUrl": "https://armdaleyachtclub.ns.ca/event/com-meeting-10/2027-08-10/",
+   "registration": {
+    "required": false,
+    "provider": null,
+    "url": null
+   }
+  },
+  {
+   "id": "evt_10003863",
+   "clubId": "ayc",
+   "title": "COM Meeting",
+   "start": "2027-09-14T18:00:00",
+   "end": "2027-09-14T20:00:00",
+   "category": "Club Business",
+   "audience": "public",
+   "sourceUrl": "https://armdaleyachtclub.ns.ca/event/com-meeting-10/2027-09-14/",
+   "registration": {
+    "required": false,
+    "provider": null,
+    "url": null
+   }
+  },
+  {
+   "id": "evt_10003864",
+   "clubId": "ayc",
+   "title": "COM Meeting",
+   "start": "2027-10-12T18:00:00",
+   "end": "2027-10-12T20:00:00",
+   "category": "Club Business",
+   "audience": "public",
+   "sourceUrl": "https://armdaleyachtclub.ns.ca/event/com-meeting-10/2027-10-12/",
+   "registration": {
+    "required": false,
+    "provider": null,
+    "url": null
+   }
+  },
+  {
+   "id": "evt_10003865",
+   "clubId": "ayc",
+   "title": "COM Meeting",
+   "start": "2027-11-09T18:00:00",
+   "end": "2027-11-09T20:00:00",
+   "category": "Club Business",
+   "audience": "public",
+   "sourceUrl": "https://armdaleyachtclub.ns.ca/event/com-meeting-10/2027-11-09/",
+   "registration": {
+    "required": false,
+    "provider": null,
+    "url": null
+   }
+  },
+  {
+   "id": "evt_10003866",
+   "clubId": "ayc",
+   "title": "COM Meeting",
+   "start": "2027-12-14T18:00:00",
+   "end": "2027-12-14T20:00:00",
+   "category": "Club Business",
+   "audience": "public",
+   "sourceUrl": "https://armdaleyachtclub.ns.ca/event/com-meeting-10/2027-12-14/",
+   "registration": {
+    "required": false,
+    "provider": null,
+    "url": null
+   }
+  },
+  {
+   "id": "evt_10003867",
+   "clubId": "ayc",
+   "title": "COM Meeting",
+   "start": "2028-01-11T18:00:00",
+   "end": "2028-01-11T20:00:00",
+   "category": "Club Business",
+   "audience": "public",
+   "sourceUrl": "https://armdaleyachtclub.ns.ca/event/com-meeting-10/2028-01-11/",
+   "registration": {
+    "required": false,
+    "provider": null,
+    "url": null
+   }
+  },
+  {
+   "id": "evt_10003868",
+   "clubId": "ayc",
+   "title": "COM Meeting",
+   "start": "2028-02-08T18:00:00",
+   "end": "2028-02-08T20:00:00",
+   "category": "Club Business",
+   "audience": "public",
+   "sourceUrl": "https://armdaleyachtclub.ns.ca/event/com-meeting-10/2028-02-08/",
+   "registration": {
+    "required": false,
+    "provider": null,
+    "url": null
+   }
+  },
+  {
+   "id": "evt_10003869",
+   "clubId": "ayc",
+   "title": "COM Meeting",
+   "start": "2028-03-14T18:00:00",
+   "end": "2028-03-14T20:00:00",
+   "category": "Club Business",
+   "audience": "public",
+   "sourceUrl": "https://armdaleyachtclub.ns.ca/event/com-meeting-10/2028-03-14/",
+   "registration": {
+    "required": false,
+    "provider": null,
+    "url": null
+   }
+  },
+  {
+   "id": "evt_10003870",
+   "clubId": "ayc",
+   "title": "COM Meeting",
+   "start": "2028-04-11T18:00:00",
+   "end": "2028-04-11T20:00:00",
+   "category": "Club Business",
+   "audience": "public",
+   "sourceUrl": "https://armdaleyachtclub.ns.ca/event/com-meeting-10/2028-04-11/",
+   "registration": {
+    "required": false,
+    "provider": null,
+    "url": null
+   }
+  },
+  {
+   "id": "evt_10003871",
+   "clubId": "ayc",
+   "title": "COM Meeting",
+   "start": "2028-05-09T18:00:00",
+   "end": "2028-05-09T20:00:00",
+   "category": "Club Business",
+   "audience": "public",
+   "sourceUrl": "https://armdaleyachtclub.ns.ca/event/com-meeting-10/2028-05-09/",
+   "registration": {
+    "required": false,
+    "provider": null,
+    "url": null
+   }
+  },
+  {
+   "id": "evt_10003872",
+   "clubId": "ayc",
+   "title": "COM Meeting",
+   "start": "2028-06-13T18:00:00",
+   "end": "2028-06-13T20:00:00",
+   "category": "Club Business",
+   "audience": "public",
+   "sourceUrl": "https://armdaleyachtclub.ns.ca/event/com-meeting-10/2028-06-13/",
+   "registration": {
+    "required": false,
+    "provider": null,
+    "url": null
+   }
+  },
+  {
+   "id": "evt_10003873",
+   "clubId": "ayc",
+   "title": "COM Meeting",
+   "start": "2028-07-11T18:00:00",
+   "end": "2028-07-11T20:00:00",
+   "category": "Club Business",
+   "audience": "public",
+   "sourceUrl": "https://armdaleyachtclub.ns.ca/event/com-meeting-10/2028-07-11/",
+   "registration": {
+    "required": false,
+    "provider": null,
+    "url": null
+   }
+  },
+  {
+   "id": "evt_10003874",
+   "clubId": "ayc",
+   "title": "COM Meeting",
+   "start": "2028-08-08T18:00:00",
+   "end": "2028-08-08T20:00:00",
+   "category": "Club Business",
+   "audience": "public",
+   "sourceUrl": "https://armdaleyachtclub.ns.ca/event/com-meeting-10/2028-08-08/",
+   "registration": {
+    "required": false,
+    "provider": null,
+    "url": null
+   }
+  },
+  {
+   "id": "evt_10003875",
+   "clubId": "ayc",
+   "title": "COM Meeting",
+   "start": "2028-09-12T18:00:00",
+   "end": "2028-09-12T20:00:00",
+   "category": "Club Business",
+   "audience": "public",
+   "sourceUrl": "https://armdaleyachtclub.ns.ca/event/com-meeting-10/2028-09-12/",
+   "registration": {
+    "required": false,
+    "provider": null,
+    "url": null
+   }
+  },
+  {
+   "id": "evt_10003876",
+   "clubId": "ayc",
+   "title": "COM Meeting",
+   "start": "2028-10-10T18:00:00",
+   "end": "2028-10-10T20:00:00",
+   "category": "Club Business",
+   "audience": "public",
+   "sourceUrl": "https://armdaleyachtclub.ns.ca/event/com-meeting-10/2028-10-10/",
+   "registration": {
+    "required": false,
+    "provider": null,
+    "url": null
+   }
+  },
+  {
+   "id": "cs_ACvuJS5H0c",
+   "clubId": "ayc",
+   "title": "Wednesday Evenings PHRF",
+   "start": null,
+   "end": null,
+   "category": "Racing",
+   "audience": "public",
+   "sourceUrl": "https://theclubspot.com/regatta/ACvuJS5H0c",
+   "registration": {
+    "required": true,
+    "provider": "clubspot",
+    "url": "https://theclubspot.com/regatta/ACvuJS5H0c"
+   }
+  },
+  {
+   "id": "cs_wApHiyc8WT",
+   "clubId": "ayc",
+   "title": "Thursday Evenings One Design",
+   "start": null,
+   "end": null,
+   "category": "Racing",
+   "audience": "public",
+   "sourceUrl": "https://theclubspot.com/regatta/wApHiyc8WT",
+   "registration": {
+    "required": true,
+    "provider": "clubspot",
+    "url": "https://theclubspot.com/regatta/wApHiyc8WT"
+   }
+  },
+  {
+   "id": "cs_8rciVfRG85",
+   "clubId": "ayc",
+   "title": "AYC Ice Breaker",
+   "start": null,
+   "end": null,
+   "category": "Racing",
+   "audience": "public",
+   "sourceUrl": "https://theclubspot.com/regatta/8rciVfRG85",
+   "registration": {
+    "required": true,
+    "provider": "clubspot",
+    "url": "https://theclubspot.com/regatta/8rciVfRG85"
+   }
+  },
+  {
+   "id": "cs_5OqtVNBDfQ",
+   "clubId": "ayc",
+   "title": "Opening Regatta",
+   "start": null,
+   "end": null,
+   "category": "Racing",
+   "audience": "public",
+   "sourceUrl": "https://theclubspot.com/regatta/5OqtVNBDfQ",
+   "registration": {
+    "required": true,
+    "provider": "clubspot",
+    "url": "https://theclubspot.com/regatta/5OqtVNBDfQ"
+   }
+  },
+  {
+   "id": "cs_WjYKF6WIlE",
+   "clubId": "ayc",
+   "title": "One Design Spring Cup",
+   "start": null,
+   "end": null,
+   "category": "Racing",
+   "audience": "public",
+   "sourceUrl": "https://theclubspot.com/regatta/WjYKF6WIlE",
+   "registration": {
+    "required": true,
+    "provider": "clubspot",
+    "url": "https://theclubspot.com/regatta/WjYKF6WIlE"
+   }
+  },
+  {
+   "id": "cs_51aL8WDS5l",
+   "clubId": "ayc",
+   "title": "Mark MacNeil Memorial Race",
+   "start": null,
+   "end": null,
+   "category": "Racing",
+   "audience": "public",
+   "sourceUrl": "https://theclubspot.com/regatta/51aL8WDS5l",
+   "registration": {
+    "required": true,
+    "provider": "clubspot",
+    "url": "https://theclubspot.com/regatta/51aL8WDS5l"
+   }
+  },
+  {
+   "id": "cs_tIVayL3xx7",
+   "clubId": "ayc",
+   "title": "Wednesday Evenings PHRF",
+   "start": null,
+   "end": null,
+   "category": "Racing",
+   "audience": "public",
+   "sourceUrl": "https://theclubspot.com/regatta/tIVayL3xx7",
+   "registration": {
+    "required": true,
+    "provider": "clubspot",
+    "url": "https://theclubspot.com/regatta/tIVayL3xx7"
+   }
+  },
+  {
+   "id": "cs_1hc3F5abFT",
+   "clubId": "ayc",
+   "title": "Thursdays Evenings One Design",
+   "start": null,
+   "end": null,
+   "category": "Racing",
+   "audience": "public",
+   "sourceUrl": "https://theclubspot.com/regatta/1hc3F5abFT",
+   "registration": {
+    "required": true,
+    "provider": "clubspot",
+    "url": "https://theclubspot.com/regatta/1hc3F5abFT"
+   }
+  },
+  {
+   "id": "cs_dHrTSjhtsR",
+   "clubId": "ayc",
+   "title": "Double Handed Cup",
+   "start": null,
+   "end": null,
+   "category": "Racing",
+   "audience": "public",
+   "sourceUrl": "https://theclubspot.com/regatta/dHrTSjhtsR",
+   "registration": {
+    "required": true,
+    "provider": "clubspot",
+    "url": "https://theclubspot.com/regatta/dHrTSjhtsR"
+   }
+  },
+  {
+   "id": "cs_ztzGl21tol",
+   "clubId": "ayc",
+   "title": "Wednesday Evenings PHRF",
+   "start": null,
+   "end": null,
+   "category": "Racing",
+   "audience": "public",
+   "sourceUrl": "https://theclubspot.com/regatta/ztzGl21tol",
+   "registration": {
+    "required": true,
+    "provider": "clubspot",
+    "url": "https://theclubspot.com/regatta/ztzGl21tol"
+   }
+  },
+  {
+   "id": "cs_XZXWVotFev",
+   "clubId": "ayc",
+   "title": "Thursday Evenings One Design",
+   "start": null,
+   "end": null,
+   "category": "Racing",
+   "audience": "public",
+   "sourceUrl": "https://theclubspot.com/regatta/XZXWVotFev",
+   "registration": {
+    "required": true,
+    "provider": "clubspot",
+    "url": "https://theclubspot.com/regatta/XZXWVotFev"
+   }
+  },
+  {
+   "id": "cs_uUstJ8glQH",
+   "clubId": "ayc",
+   "title": "Fall One Design Cup",
+   "start": null,
+   "end": null,
+   "category": "Racing",
+   "audience": "public",
+   "sourceUrl": "https://theclubspot.com/regatta/uUstJ8glQH",
+   "registration": {
+    "required": true,
+    "provider": "clubspot",
+    "url": "https://theclubspot.com/regatta/uUstJ8glQH"
+   }
+  },
+  {
+   "id": "cs_L784xgvgBh",
+   "clubId": "ayc",
+   "title": "Commodore\u2019s Cup",
+   "start": null,
+   "end": null,
+   "category": "Racing",
+   "audience": "public",
+   "sourceUrl": "https://theclubspot.com/regatta/L784xgvgBh",
+   "registration": {
+    "required": true,
+    "provider": "clubspot",
+    "url": "https://theclubspot.com/regatta/L784xgvgBh"
+   }
+  },
+  {
+   "id": "cs_1ksiSvxe3n",
+   "clubId": "ayc",
+   "title": "Harbour Islands Classic",
+   "start": null,
+   "end": null,
+   "category": "Racing",
+   "audience": "public",
+   "sourceUrl": "https://theclubspot.com/regatta/1ksiSvxe3n",
+   "registration": {
+    "required": true,
+    "provider": "clubspot",
+    "url": "https://theclubspot.com/regatta/1ksiSvxe3n"
+   }
+  },
+  {
+   "id": "cs_Z3r64qLMi5",
+   "clubId": "ayc",
+   "title": "AYC Club Championships",
+   "start": null,
+   "end": null,
+   "category": "Racing",
+   "audience": "public",
+   "sourceUrl": "https://theclubspot.com/regatta/Z3r64qLMi5",
+   "registration": {
+    "required": true,
+    "provider": "clubspot",
+    "url": "https://theclubspot.com/regatta/Z3r64qLMi5"
+   }
+  },
+  {
+   "id": "cs_CgpfLI5XHu",
+   "clubId": "ayc",
+   "title": "Wednesday Frostbite Series PHRF",
+   "start": null,
+   "end": null,
+   "category": "Racing",
+   "audience": "public",
+   "sourceUrl": "https://theclubspot.com/regatta/CgpfLI5XHu",
+   "registration": {
+    "required": true,
+    "provider": "clubspot",
+    "url": "https://theclubspot.com/regatta/CgpfLI5XHu"
+   }
+  },
+  {
+   "id": "cs_p5b3oIHD4K",
+   "clubId": "ayc",
+   "title": "Chicken Race",
+   "start": null,
+   "end": null,
+   "category": "Racing",
+   "audience": "public",
+   "sourceUrl": "https://theclubspot.com/regatta/p5b3oIHD4K",
+   "registration": {
+    "required": true,
+    "provider": "clubspot",
+    "url": "https://theclubspot.com/regatta/p5b3oIHD4K"
+   }
+  },
+  {
+   "id": "cs_ZHBkO0zHws",
+   "clubId": "ayc",
+   "title": "Die Hard Race",
+   "start": null,
+   "end": null,
+   "category": "Racing",
+   "audience": "public",
+   "sourceUrl": "https://theclubspot.com/regatta/ZHBkO0zHws",
+   "registration": {
+    "required": true,
+    "provider": "clubspot",
+    "url": "https://theclubspot.com/regatta/ZHBkO0zHws"
+   }
+  }
+ ]
+}

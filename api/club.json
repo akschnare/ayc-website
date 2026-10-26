@@ -1,0 +1,54 @@
+{
+ "apiVersion": "0.1-mock",
+ "data": {
+  "id": "ayc",
+  "name": "Armdale Yacht Club",
+  "address": "75 Burgee Run, Halifax, NS B3P 0C9",
+  "phones": {
+   "office": "(902) 477-4617 ext. 1",
+   "catering": "(902) 477-4617 ext. 2",
+   "marineServicesMobile": "(902) 476-2064",
+   "gasDockYard": "(902) 476-0475",
+   "fax": "(902) 477-0148"
+  },
+  "emails": {
+   "office": "office@armdaleyachtclub.ns.ca",
+   "dockmaster": "dockmaster@armdaleyachtclub.ns.ca",
+   "catering": "catering@armdaleyachtclub.ns.ca",
+   "learnToSail": "LTS@armdaleyachtclub.ns.ca"
+  },
+  "vhf": "68",
+  "membershipCategories": [
+   {
+    "code": "senior",
+    "name": "Senior",
+    "desc": "Boat owner; 25+ years of age"
+   },
+   {
+    "code": "intermediate",
+    "name": "Intermediate",
+    "desc": "Boat owner; 19 through 24 years of age"
+   },
+   {
+    "code": "junior",
+    "name": "Junior",
+    "desc": "Dinghy owner; 12 through 18 years of age"
+   },
+   {
+    "code": "social",
+    "name": "Social",
+    "desc": "No boat; 19+ years of age"
+   },
+   {
+    "code": "affiliate",
+    "name": "Affiliate",
+    "desc": "Member of another yacht club; no boating services; 19+"
+   },
+   {
+    "code": "outport",
+    "name": "Outport",
+    "desc": "From outside HRM; may be with boat; 19+"
+   }
+  ]
+ }
+}

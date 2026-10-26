@@ -1,0 +1,85 @@
+{
+ "apiVersion": "0.1-mock",
+ "data": [
+  {
+   "id": "doc_0",
+   "title": "Application for Membership (2019)",
+   "file": "docs/2019-04-01-Application-for-Membership.pdf",
+   "category": "Membership",
+   "visibility": "public",
+   "needsReview": true
+  },
+  {
+   "id": "doc_1",
+   "title": "Dues, Fees & Services Schedule (2023)",
+   "file": "docs/2023-01-01-DuesFeesServsSchedM-NMAlphaf.pdf",
+   "category": "Membership",
+   "visibility": "public",
+   "needsReview": true
+  },
+  {
+   "id": "doc_2",
+   "title": "Visitor Fees, Services & Information (2023)",
+   "file": "docs/2023-01-01-VisitorFeesServsInfoBrochure-1.pdf",
+   "category": "Visiting",
+   "visibility": "public",
+   "needsReview": true
+  },
+  {
+   "id": "doc_3",
+   "title": "Marinas & Grounds Map",
+   "file": "docs/AYC_Marinas_and_Grounds.pdf",
+   "category": "Visiting",
+   "visibility": "public",
+   "needsReview": true
+  },
+  {
+   "id": "doc_4",
+   "title": "Discover AYC brochure (2023 draft)",
+   "file": "docs/Discover-AYC-2023-draft-3.pdf",
+   "category": "About",
+   "visibility": "public",
+   "needsReview": true
+  },
+  {
+   "id": "doc_5",
+   "title": "Launch/Haul-Out Waiver & Request (2016)",
+   "file": "docs/2016-10-16-Launch-Haul-Out-Waiver.pdf",
+   "category": "Yard",
+   "visibility": "public",
+   "needsReview": true
+  },
+  {
+   "id": "doc_6",
+   "title": "Winter Storage Application (2019)",
+   "file": "docs/2019-10-18-AYC-Winter-Storage-Applicationf.pdf",
+   "category": "Yard",
+   "visibility": "public",
+   "needsReview": true
+  },
+  {
+   "id": "doc_7",
+   "title": "Kayak/Canoe Application (2016)",
+   "file": "docs/2016-01-15-AYC-Kayak-Application-Form-1.pdf",
+   "category": "Yard",
+   "visibility": "public",
+   "needsReview": true
+  },
+  {
+   "id": "doc_8",
+   "title": "Room Rental Form (2023)",
+   "file": "docs/Room-Rental-Form-2023-02.pdf",
+   "category": "Clubhouse",
+   "visibility": "public",
+   "needsReview": true
+  },
+  {
+   "id": "doc_9",
+   "title": "Hearing Request Form (2021)",
+   "file": "docs/Hearing-Request-Form-210207.pdf",
+   "category": "Racing",
+   "visibility": "public",
+   "needsReview": true
+  }
+ ]
+}

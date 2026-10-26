@@ -1,0 +1,15 @@
+/* Shared design tokens — AYC + Melville Island Heritage (melvilleislandheritage.ca).
+   Navy #38446F and gold #FBCE55 are already used on BOTH sites; MIH adds paper/ink/brass
+   and the Libre Baskerville + Atkinson Hyperlegible Next pairing. AYC navy stays primary. */
+:root{
+  --ayc-navy:#38446F; --ayc-navy-dark:#232c4d; --ayc-gold:#FBCE55; --ayc-gold-deep:#F9B700;
+  --ayc-burgundy:#632032; /* seen in current AYC CSS */
+  --mih-paper:#F7F3EA; --mih-ink:#141827; --mih-brass:#7A5A00; --mih-muted:#555B6B;
+  --c-bg:#fff; --c-surface:var(--mih-paper); --c-text:var(--mih-ink); --c-muted:var(--mih-muted);
+  --c-primary:var(--ayc-navy); --c-accent:var(--ayc-gold); --c-link:var(--ayc-navy); --c-focus:#F9B700;
+  --font-display:"Libre Baskerville",Georgia,serif;
+  --font-body:"Atkinson Hyperlegible Next","Atkinson Hyperlegible",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --step--1:clamp(.9rem,.87rem + .15vw,.975rem); --step-0:1.0625rem;
+  --step-1:clamp(1.3rem,1.2rem + .5vw,1.55rem); --step-2:clamp(1.65rem,1.45rem + 1vw,2.2rem); --step-3:clamp(2.2rem,1.7rem + 2.6vw,3.8rem);
+  --radius:10px; --gap:1.25rem; --max:1100px; --shadow:0 2px 10px rgba(20,24,39,.08);
+}
